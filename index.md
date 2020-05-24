@@ -3,10 +3,9 @@
 - [組込みシステム](#content1)
   - [ハードウェア構成](#content2)
   - [組込みシステム](#content3)
-  - [応用システム](#content4)
-  - [プロセッサ](#content5)
-  - [特性](#content6)
-  - [利点](#content7)
+  - [プロセッサ](#content4)
+  - [特性](#content5)
+  - [利点](#content6)
 
 
 <a id="content1"></a>
